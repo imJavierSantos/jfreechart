@@ -7,7 +7,7 @@
 (C)opyright 2000-2014, by Object Refinery Limited and Contributors.
 
 -----------------
-1.  INTRODUCTION
+1.  INTRODUCTION´,lñ´ñ
 -----------------
 JFreeChart is a free chart library for the Java(tm) platform.  It runs
 on the Java 2 Platform (JRE 1.6.0 or later) and uses the Java 2D API for
